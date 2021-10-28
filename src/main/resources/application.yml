@@ -21,3 +21,9 @@ mybatis-plus:
 
 reggie:
     path: D:\img\
+
+redis:
+  host: 106.12.152.229
+  port: 6379
+  password: root@123456
+  database: 0
